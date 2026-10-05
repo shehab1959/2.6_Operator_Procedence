@@ -7,3 +7,6 @@ f = 5 ** 2
 print(a,b,c,d,e,f)
 print(int(d))
 print(float(e))
+
+print(3**5)
+##
